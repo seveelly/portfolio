@@ -1,5 +1,5 @@
 ---
-date: '2018-12-18'
+date: '2022-03-18'
 title: 'Spotify Profile'
 github: 'https://github.com/seveelly/spotify-profile-client'
 external: 'https://spotify-clientapp.herokuapp.com/'
