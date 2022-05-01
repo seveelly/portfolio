@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me clearn nextjs, built with Next.js, Firebase, and Tailwind CSS
+A single page web app for helping me learn nextjs, built with Next.js, Firebase, and Tailwind CSS
