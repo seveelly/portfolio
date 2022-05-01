@@ -11,4 +11,4 @@ tech:
   - Styled Components
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I decided to take the and build a spotify connected app.
+Having struggled with understanding how the Spotify OAuth flow works, I decided to take the challenge and build a spotify connected app.
