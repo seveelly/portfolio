@@ -64,9 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm an experienced software engineer who constantly seeks out innovative solutions to
-        everyday problems. In my 4 years in this industry, I've honed my analytical thinking and
-        collaboration skills, and I love working with a team
+      I am Self- directed, detail-oriented, and professional C# programmer with more than 5 years of experience in designing, developing, analyzing, and implementing client-server, web and desktop-based applications using C# language. Expertise in system designing as well as in testing, debugging and modifying related application code. Capable of learning new programming languages and technologies and complete projects within specified deadlines. Possess excellent communication, problem solving, documentation, analytical, and decision solving skills
       </p>
     </>
   );
