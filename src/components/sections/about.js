@@ -155,9 +155,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="#">a hospital</a>, <a href="#">a start-up</a>,{' '}
+              <a href="http://accucare.com/">a hospital</a>, <a href="#">a start-up</a>,{' '}
               <a href="#">a student-led design studio</a>. My main focus these days is building
-              accessible, inclusive products and digital experiences at <a href="#">Gtech</a> .
+              accessible, inclusive products and digital experiences at{' '}
+              <a href="https://www.turing.com/">Turing</a> .
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
