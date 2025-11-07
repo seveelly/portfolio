@@ -127,16 +127,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'TypeScript',
-    'React',
+    'Python',
     'C#',
     'Node.js',
-    'Asp.net core',
-    'Dotnet Maui',
-    'Vue',
-    'Flutter',
-    'WPF',
+    'TypeScript',
+    'ASP.NET Core',
+    'Express.js',
+    'React',
+    'Next.js',
+    'Azure',
+    'Docker',
+    'PostgreSQL',
+    'Microservices',
   ];
 
   return (
@@ -147,18 +149,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Eliud and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2015 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Eliud and I specialize in building scalable backend systems and RESTful APIs. My
+              journey in software engineering started with a passion for solving complex problems through code,
+              and I've been fortunate to work across diverse industries from healthcare to travel technology.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="http://accucare.com/">a hospital</a>, <a href="#">a start-up</a>,{' '}
-              <a href="#">a student-led design studio</a>. My main focus these days is building
-              accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.turing.com/">Turing</a> .
+              Fast-forward to today, and I've had the privilege of leading backend development at{' '}
+              <a href="#">iTravelHolidays</a>, building cargo tracking systems at{' '}
+              <a href="#">Navisat Telematics</a>, and developing healthcare software at{' '}
+              <a href="http://accucare.com/">AccuCare</a>. My focus is on architecting robust, 
+              data-intensive applications that deliver real business value.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

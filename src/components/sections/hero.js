@@ -60,11 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Eliud Ogola.</h2>;
-  const three = <h3 className="big-heading">I build software.</h3>;
+  const three = <h3 className="big-heading">I build scalable backend systems.</h3>;
   const four = (
     <>
       <p>
-      I am Self- directed, detail-oriented, and professional C# programmer with more than 5 years of experience in designing, developing, analyzing, and implementing client-server, web and desktop-based applications using C# language. Expertise in system designing as well as in testing, debugging and modifying related application code. Capable of learning new programming languages and technologies and complete projects within specified deadlines. Possess excellent communication, problem solving, documentation, analytical, and decision solving skills
+        A detail-oriented Lead Software Engineer with over 5 years of experience architecting, developing, and deploying scalable, data-intensive applications. My expertise lies in building robust RESTful APIs and backend systems in diverse, polyglot environments including Python, C#, and Node.js. A proven problem-solver with strong experience in cloud platforms and containerization, now seeking to apply my technical skills to a mission-driven organization focused on generating impactful, data-driven insights.
       </p>
     </>
   );

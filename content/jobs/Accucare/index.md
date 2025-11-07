@@ -1,12 +1,14 @@
 ---
-date: '2020-1-21'
+date: '2019-12-01'
 title: 'Developer'
-company: 'Accucare'
-location: 'Nairobi'
-range: 'January - December 2020'
+company: 'AccuCare'
+location: 'Nairobi, Kenya'
+range: 'December 2019 - November 2021'
 url: '#'
 ---
 
--Developed and shipped highly interactive web applications for Accucare using Blazor C#
+- Designed and implemented backend systems for healthcare software, including a secure Electronic Health Records (EHR) system that dramatically reduced patient record retrieval time
 
-- Built and shipped the Accucare admin client using flutter leveraging the third party and internal APIs
+- Developed a secure patient portal with multi-factor authentication, reducing unauthorized access incidents
+
+- Automated administrative backend processes, which substantially decreased scheduling errors and improved operational efficiency
